@@ -1,9 +1,10 @@
 # ☀ SunPark Solar Simulator
 
 **Simulatore di produttività per impianti fotovoltaici residenziali**  
-Sviluppato per SunPark S.r.l. — Prova Tecnica
-
 ---
+
+<img width="2878" height="1556" alt="image" src="https://github.com/user-attachments/assets/36d47826-8a1d-4eb2-97b8-ba03d71e5c7e" />
+
 
 ## Requisiti
 
